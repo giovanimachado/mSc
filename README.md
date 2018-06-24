@@ -8,3 +8,9 @@
 > Machine Learning applied in E&P
 
 > Data Science, Descriptive Statistics, E&P, Decision Support
+
+## Articles
+> Here Will be available the list of articles used in the research period
+
+## Tools
+> Python
