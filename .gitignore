@@ -1,0 +1,37 @@
+.ipynb_checkpoints/
+2018-01 - Tabelao 89 poços.xlsx
+Descrição das variáveis.xlsx
+MLP_results.csv
+baseProjetoCategory_to_EDA.csv
+baseProjetoTest.csv
+baseProjetoTestFase1.csv
+baseProjetoTestFase1_2_3.csv
+baseProjetoTrainOver.csv
+baseProjetoTrainOverFase1.csv
+baseProjetoTrainOverFase1_2_3.csv
+baseProjeto_entradaModelo.csv
+baseProjeto_entradaModelo_fase1.csv
+baseProjeto_entradaModelo_fase1_2_3.csv
+baseProjeto_entradaModelo_fase2.csv
+baseProjeto_entradaModelon.csv
+baseProjeto_over.csv
+baseProjeto_pre_binarizada.csv
+baseProjeto_to_EDA.csv
+base_projeto.csv
+cmd.exe
+figures/
+knn_results.csv
+log
+mlModelsMLP-Comentado.ipynb
+mlModelsMlpKFold.ipynb
+model.pkl
+model_columns.pkl
+result_kfold_KNN.csv
+result_kfold_MLP.csv
+result_kfold_RF.csv
+result_kfold_SVM.csv
+resultadosModelos.xlsx
+rf_results.csv
+svm_results.csv
+test.png
+figures
