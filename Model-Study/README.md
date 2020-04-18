@@ -9,7 +9,11 @@
 
 > Data Science, Descriptive Statistics, E&P, Decision Support
 
-## Articles
+## Tools
+> Python <br>
+> Scikit-learn
+
+## Bibliography
 
 1.	LEITE CRISTOFARO, R. A. et al. Artificial Intelligence Strategy Minimizes Lost Circulation Non-Productive Time in Brazilian Deep Water Pre-Salt. OTC Brasil. [S.l.]: [s.n.]. 2017.
 2.	TOREIFI, H.; ROSTAMI, H. New method for prediction and solving the problem of drilling fluid loss using modular neural network and particle swarm optimization algorithm. Journal of Petroleum Exploration and Production Technology, v. 4, p. 371-379, 2014.
@@ -57,7 +61,5 @@
 44.	RUMELHART, D. E.; HINTON, G. E.; WILLIAMS, R. J. Learning internal representations by error propagation. California Univ San Diego La Jolla Inst for Cognitive Science. [S.l.]. 1985.
 45.	YOHANNES, Y.; WEBB, P. Classification and Regression Trees, CART: A User Manual For Identifying Indicators of Vulnerability to Famine Chronic Food Insecurity. Washington: International Food Policy Research Institute, 1999. ISBN 0-89629 337 8.
 
-
-## Tools
-> Python <br>
-> Scikit-learn
+## Licence: MIT
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
