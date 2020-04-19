@@ -1,13 +1,6 @@
-<center><a href="http://dippg.cefet-rj.br/ppeel/index.php/component/content/article?id=97&Itemid=101">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq6GeKCRURdECL3CeF6FLs45GoAsbYkFjSMCp_C9Ef_ECUV6KW" title="PPEEL" alt="Programa de Pós Graduação em Engenharia Elétrica"></a></center>
+# Model-Study Folder
 
-# MSc
-
-> Repository for my MSC research in Machine Learning
-
-> Machine Learning applied in E&P
-
-> Data Science, Descriptive Statistics, E&P, Decision Support
+Here it is available the Jupyter Notebooks created to create the classification models.
 
 ## Tools
 > Python <br>
